@@ -1,0 +1,7 @@
+pairs:
+  ar: Adan Romero; adan.romero
+email:
+  prefix: pair
+  domain: gmail.com
+  no_solo_prefix: true
+global: false
